@@ -1,0 +1,20 @@
+img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+form {
+	text-align: left;
+	width: 500px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.button {
+	position: relative;
+	left:32%;
+	margin-left: auto;
+	margin-right: auto;
+}
